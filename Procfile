@@ -1,1 +1,1 @@
-web: gunicorn medicalAid1.wsgi
+web: gunicorn medicalAid1.wsgi --log-file -
